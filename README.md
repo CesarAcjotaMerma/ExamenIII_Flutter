@@ -1,12 +1,12 @@
 
-<a href="https://ibb.co/YLg141L"><img src="https://i.ibb.co/S3SMDM3/Screenshot-2021-11-02-14-34-15-208-com-example-lab12.jpg" alt="Screenshot-2021-11-02-14-34-15-208-com-example-lab12" height="200" border="0"></a>
+
 
 
 Colons can be used to align columns.
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| <a href="https://ibb.co/YLg141L"><img src="https://i.ibb.co/S3SMDM3/Screenshot-2021-11-02-14-34-15-208-com-example-lab12.jpg" alt="Screenshot-2021-11-02-14-34-15-208-com-example-lab12" height="200" border="0"></a>     | <a href="https://ibb.co/YLg141L"><img src="https://i.ibb.co/S3SMDM3/Screenshot-2021-11-02-14-34-15-208-com-example-lab12.jpg" alt="Screenshot-2021-11-02-14-34-15-208-com-example-lab12" height="200" border="0"></a> | <a href="https://ibb.co/YLg141L"><img src="https://i.ibb.co/S3SMDM3/Screenshot-2021-11-02-14-34-15-208-com-example-lab12.jpg" alt="Screenshot-2021-11-02-14-34-15-208-com-example-lab12" height="200" border="0"></a> |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
